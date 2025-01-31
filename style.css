@@ -1,0 +1,17 @@
+/* Header colour */
+h1 {
+    font-size: 36px;
+    font-weight: bold;
+    color: #000000;
+    margin: 0; /* Remove any extra margin */
+    text-align: center; /* Centers the links */
+}
+
+/* Flexbox for logo and title in header */
+.header {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start; /* Aligns the items to the left */
+    margin: 0; /* Removes any additional margin */
+    background-color: #f0f8f0; /* change to society colours */
+    text-align: flex-start; /* Centers the links */
